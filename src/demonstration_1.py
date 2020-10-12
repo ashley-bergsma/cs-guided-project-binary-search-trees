@@ -26,4 +26,3 @@ class BinaryTreeNode:
 
 def maxDepth(self, root):
     # Your code here
-
